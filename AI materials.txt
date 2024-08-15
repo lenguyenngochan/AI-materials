@@ -1,0 +1,11 @@
+topic: Data mining, Machine learning, Big Data
+ebook: Mining of Massive Datasets
+https://web.archive.org/web/20180219012616id_/http://i.stanford.edu:80/~ullman/mmds/book.pdf
+ 
+topic: Deep learning
+ebook: Dive into Deep Learning
+https://deeplearning.cs.cmu.edu/F20/document/readings/d2l-en.pdf
+ 
+topic: NLP
+ebook: Speech and Language Processing
+https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
